@@ -250,7 +250,7 @@ form label{
         padding-bottom: 1rem;
     }
     
-    ,blurb-wrapper-left,.blurb-wrapper-right{
+    .blurb-wrapper-left,.blurb-wrapper-right{
         order: 2;
         padding-top: 2rem;
     }
@@ -266,17 +266,19 @@ form label{
     .submit-btn-wrapper{
         text-align: center;
     }
-
-
-
-
-}
-
-@media (max-width:520px){
+    
+    @media (max-width:580px){
     .portfolio-wrapper{
         justify-content: center;
     }
 }
+
+
+
+
+}
+
+
 
 
 
