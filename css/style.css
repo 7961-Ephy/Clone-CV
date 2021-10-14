@@ -272,7 +272,7 @@ form label{
 
 }
 
-@media (max-width:599px){
+@media (max-width:640px){
     .portfolio-wrapper{
         justify-content: center;
     }
